@@ -11,3 +11,5 @@ Video 2: https://youtu.be/edGokCaaEAM
 
 
 Sprites used for the game can be found here https://scratch.mit.edu/studios/110392/
+
+I made this game while I was in highschool, so the code is significantly worse than what I am capabable of producing today. However it is a good showcase of my passion for game development early in life.
